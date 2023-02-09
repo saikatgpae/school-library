@@ -28,11 +28,9 @@
 # 📖 [your_project_name] <a name="about-project"></a>
 
 > magine that you are the librarian of OOP University, and you need a tool to record what books are in the library and who borrows them. This app  will allow you to:
-- Add new students or teachers.
-- Add new books.
-- Save records of who borrowed a given book and when.
 
-**[your_project__name]** is OOP school library
+
+**[OOP school library]**
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -43,11 +41,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Add new students or teachers.]**
+- **[Add new books.]**
+- **[Save records of who borrowed a given book and when.]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
