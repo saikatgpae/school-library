@@ -25,7 +25,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [OOP school library] <a name="about-project"></a>
 
 > magine that you are the librarian of OOP University, and you need a tool to record what books are in the library and who borrows them. This app  will allow you to:
 
@@ -36,16 +36,16 @@
 
 ### Tech Stack <a name="tech-stack">Ruby</a>
 
-
-<!-- Features -->
-
 ### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
 
 - **[Add new students or teachers.]**
 - **[Add new books.]**
 - **[Save records of who borrowed a given book and when.]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- LIVE DEMO -->
 
