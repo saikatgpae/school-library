@@ -70,14 +70,14 @@ To get a local copy of this program, Please follow these simple example steps.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+
 ## 🤝 Contributing <a name="contributing"></a>
 
-- **[Add_new_students_or_teachers.]**
-- **[Add_new_books.]**
-- **[Save_records_of_who_borrowed_a_given_book_and_when.]**
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/saikatgpae/school-library/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
