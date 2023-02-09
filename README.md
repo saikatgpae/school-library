@@ -45,7 +45,6 @@ To get a local copy of this program, Please follow these simple example steps.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors">Saikat</a>
 
@@ -59,7 +58,7 @@ To get a local copy of this program, Please follow these simple example steps.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-### Key Features <a name="key-features"></a>
+### 🔭 Key Features <a name="key-features"></a>
 
 
 - **[Add_new_students_or_teachers.]**
