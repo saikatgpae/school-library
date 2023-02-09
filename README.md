@@ -46,7 +46,7 @@ To get a local copy of this program, Please follow these simple example steps.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 👥 Authors <a name="authors">Saikat</a>
+## 👥 Authors <a name="authors"></a>
 
 👤 **Author1**
 
@@ -58,8 +58,19 @@ To get a local copy of this program, Please follow these simple example steps.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-### 🔭 Key Features <a name="key-features"></a>
 
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[Add_new_students_or_teachers.]**
+- [ ] **[Add_new_books.]**
+- [ ] **[Save_records_of_who_borrowed_a_given_book_and_when.]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🤝 Contributing <a name="contributing"></a>
 
 - **[Add_new_students_or_teachers.]**
 - **[Add_new_books.]**
@@ -68,13 +79,6 @@ To get a local copy of this program, Please follow these simple example steps.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/saikatgpae/school-library/issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## ⭐️ Show your support <a name="support"></a>
