@@ -124,7 +124,7 @@ class App
       display_options
       option = gets.chomp
       excute(option)
-      if option == '7'
+      if option == 7
         puts 'Thanks for using this app'
         break
       end
